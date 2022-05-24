@@ -33,7 +33,7 @@ showPermissionsDeniedDialog(BuildContext context,
               ));
       break;
     default:
-      break;
+      break; // hihi
   }
 }
 
